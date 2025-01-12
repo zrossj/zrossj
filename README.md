@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, i'm João Zwarg
+I'm studying data engineering and data science for a carrer path change. I have a bachelor's in engineering and i'm currently working in a investment funds firm. 
 
-<!--
-**zrossj/zrossj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li> My main skills are 
+  <b>Python/Spark</b> for processing;
+  <b>BeautifulSoup/Selenium</b> for Webscraping;
+  <b>Airflow</b> for orchestration;
+  <b>PostgreSQL, SQLServer and MySQL</b> for relational databases; 
+  <b>MongoDB</b> for NoSQL; 
+  <b>Docker</b> for containers; 
+  <b>PowerBI and Tableau</b> for data visualization;  
+  <b>AWS</b> for cloud
+</li>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> My Stack </h1>
+Python  | Pandas | DBT | Apache Airflow | Apache Spark | Flask | Docker | GitHub | PostgreSQL | SQLServer | MongoDB | BASH | Power BI | Tableau | AWS
