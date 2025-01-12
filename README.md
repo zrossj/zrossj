@@ -12,7 +12,12 @@ My main skills are
   <li><b>AWS</b> for cloud </li>
 
 <h1> My Stack </h1>
-Python  | Pandas | DBT | Apache Airflow | Apache Spark | Flask | Docker | GitHub | PostgreSQL | SQLServer | MongoDB | BASH | Power BI | Tableau | AWS
+Python  | Pandas | DBT | Apache Airflow | Apache Spark | Flask | Docker | GitHub | PostgreSQL | SQLServer | MongoDB | Bash | Power BI | Tableau | AWS
 
-If you want to reach me: 
-📫 jg.zwarg@gmail.com
+<br>
+<p>
+  
+*If you want to reach me:*
+<br>📫 jg.zwarg@gmail.com
+<br>🔗 https://www.linkedin.com/in/joao-zwarg/
+</p>
